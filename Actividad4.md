@@ -1,6 +1,6 @@
 
 
-## ¿Cuáles son los 10 primeros paises con mas colombianos detenidos en el 2022?
+## ⋆˚✿˖° Actividad 4 ⋆˚✿˖°
 
 
 ``` sql
@@ -22,8 +22,4 @@ La consulta principal realiza el recuento de detenidos por país y excluye aquel
 
 ---
 ## Dashboard 
-<iframe 
-    title="Dashboard"
-    width="100%"
-    height="auto"
-    src="https://lookerstudio.google.com/reporting/d59af4ec-baae-4e27-a627-9c7113eb4bd8" ></iframe> 
+<iframe title="Dashboard" width="100%" height="500px" src="https://lookerstudio.google.com/reporting/d59af4ec-baae-4e27-a627-9c7113eb4bd8"></iframe> 
