@@ -21,4 +21,6 @@ La consulta principal realiza el recuento de detenidos por país y excluye aquel
 
 ---
 ## Dashboard 
+<iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/d59af4ec-baae-4e27-a627-9c7113eb4bd8/page/xi4RD" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 [LookerStudio.com](https://lookerstudio.google.com/reporting/d59af4ec-baae-4e27-a627-9c7113eb4bd8)
