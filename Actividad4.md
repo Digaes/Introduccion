@@ -16,7 +16,7 @@ GROUP BY DF.pais
 ORDER BY Total DESC LIMIT 10
 sql
 ```
-La consulta utiliza una subconsulta llamada **"detenido_fecha"**, que extrae la información relevante de la tabla **"Colombianos_detenidos"**. La subconsulta selecciona el país de prisión y el género de los detenidos cuya fecha de publicación se encuentra en el rango entre el 1 de enero de 2022 y el 31 de diciembre de 2022.
+La consulta utiliza una subconsulta llamada **"detenido_fecha"**, que extrae la información relevante de la tabla **"Colombianos_detenidos"**. La subconsulta selecciona el país de prisión y el género de los detenidos cuya fecha de publicación se encuentra en el rango entre el 1 de enero de 2022 y el 31 de diciembre de 2022
 
 La consulta principal realiza el recuento de detenidos por país y excluye aquellos casos donde el país es **"DESCONOCIDO"**. Luego, agrupa los resultados por país y los ordena en orden descendente según el recuento total. Por último, se limita la salida a los diez primeros resultados.
 
